@@ -10,7 +10,7 @@ The BigBoy Advance is a variation of a Game Boy Macro, that uses the larger scre
 ## Buy the Kit
 The BigBoy Advance electronics kit is available from my Etsy store.
 
-[Buy the BigBoy Advance Kit on Etsy](ETSY-LINK)
+[Buy the BigBoy Advance Kit on Etsy](https://www.etsy.com/listing/4590307147/bigboy-advance-kit-nintendo-ds-lite-with)
 
 ## System Overview
 A visual representation of the mod’s electronic architecture can be seen in the figure below.
@@ -44,7 +44,7 @@ compatible with SLS/MJF and SLA printing. There is no CNC version for these
 parts yet.
 
 The production files for the different manufacturing methods can be found
-**[here](Shell/)**. I have included the STL and STEP files for all parts, so
+**[here](Production/Shell/)**. I have included the STL and STEP files for all parts, so
 that modders with the right skillset can make changes if they want.
 
 > **NOTE:** If changes are made, I cannot guarantee that the parts will still work.
@@ -57,7 +57,7 @@ when ordering for the different manufacturing methods.
 
 After uploading the STEP file to JLCCNC, click the option “Edit Specifications”. Surface finish is up to your own preference, and the cost may vary depending on your selection. The two important selections are:
 -	**Tightest Tolerance:** ISO2768 medium. This ISO tolerance class is tight enough for this design. No tighter tolerances are necessary.
--	**Threads:** Select “Yes”, indicating that the part requires tapped threads. You will be asked to upload a technical drawing, which can be downloaded here [link](Shell/drawing.pdf).
+-	**Threads:** Select “Yes”, indicating that the part requires tapped threads. You will be asked to upload a technical drawing, which can be downloaded here [link](Production/Shell/CNC/BBA_front_shell_drawing.pdf).
 
 ![CNC Specifications](Images/JLCCNC_specifications.png)
 
@@ -88,11 +88,28 @@ After uploading the STL file to JLC3DP, click the option “Edit Specifications�
 
 ## Future Work
 
-[Add planned improvements here, or remove this section for now.]
+I initially set out to develop the best console for myself to play GBA games on, since it is my favourite era of Nintendo console. It is the era I grew up in and the games I am most nostalgic about. In my opinion, I have achieved that goal and I am happy with the results.
+
+Since the heart of this console is a Nintendo DS Lite, there are always people who don't see the point of "removing functionality" from a perfectly good console by taking away one of its screens. To appease these people, and because I have an interesting idea for the implementation, I plan to create a new version of this project in the future.
+
+It will be called the BigBoy Advance TOAST (**T**V **O**ut **A**nd **S**creen Switch with **T**ouchscreen). This version will retain the touchscreen functionality of the original Nintendo DS Lite and also incorporate the screen switching and TV-out mod discovered by the folks at Lost Nintendo History (LNH), with my own twist on the functionality.
+
+I have already built the first prototype of this version and with a few modifications, it will be available in the near future.
 
 ## License
 
-[To be decided.]
+The BigBoy Advance design files and documentation in this repository are
+licensed under the [Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+You are free to build, modify and share the BigBoy Advance design for
+non-commercial purposes, provided appropriate credit is given.
+
+Commercial use, including the sale of products manufactured from these design
+files, is not permitted without prior permission.
+
+If you are interested in commercial use of the BigBoy Advance design, please
+contact me for permission.
 
 ## Disclaimer
 
