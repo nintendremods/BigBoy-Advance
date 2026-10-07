@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('front_shell_CNC_12Sep2026.STEP',
+FILE_NAME ('BBA_front_shell_CNC.STEP',
     '2026-09-12T15:42:59',
     ( '' ),
     ( '' ),
