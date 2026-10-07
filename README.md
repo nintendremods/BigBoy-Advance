@@ -57,7 +57,7 @@ when ordering for the different manufacturing methods.
 
 After uploading the STEP file to JLCCNC, click the option “Edit Specifications”. Surface finish is up to your own preference, and the cost may vary depending on your selection. The two important selections are:
 -	**Tightest Tolerance:** ISO2768 medium. This ISO tolerance class is tight enough for this design. No tighter tolerances are necessary.
--	**Threads:** Select “Yes”, indicating that the part requires tapped threads. You will be asked to upload a technical drawing, which can be downloaded here [link](Production/Shell/CNC/BBA_front_shell_drawing.PDF).
+-	**Threads:** Select “Yes”, indicating that the part requires tapped threads. You will be asked to upload a technical drawing, which can be downloaded [here](Production/Shell/CNC/BBA_front_shell_drawing.PDF).
 
 ![CNC Specifications](Images/JLCCNC_specifications.png)
 
