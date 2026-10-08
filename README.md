@@ -88,28 +88,13 @@ After uploading the STL file to JLC3DP, click the option â€œEdit Specificationsâ
 
 ## Future Work
 
-I initially set out to develop the best console for myself to play GBA games on, since it is my favourite era of Nintendo console. It is the era I grew up in and the games I am most nostalgic about. In my opinion, I have achieved that goal and I am happy with the results.
+I initially set out to develop the best console for myself to play GBA games on, since it is my favourite era of Nintendo consoles. It is the era I grew up in and the games I am most nostalgic about. In my opinion, I have achieved that goal and I am happy with the results.
 
 Since the heart of this console is a Nintendo DS Lite, there are always people who don't see the point of "removing functionality" from a perfectly good console by taking away one of its screens. To appease these people, and because I have an interesting idea for the implementation, I plan to create a new version of this project in the future.
 
 It will be called the BigBoy Advance TOAST (**T**V **O**ut **A**nd **S**creen Switch with **T**ouchscreen). This version will retain the touchscreen functionality of the original Nintendo DS Lite and also incorporate the screen switching and TV-out mod discovered by the folks at Lost Nintendo History (LNH), with my own twist on the functionality.
 
-I have already built the first prototype of this version and with a few modifications, it will be available in the near future.
-
-## License
-
-The BigBoy Advance design files and documentation in this repository are
-licensed under the [Creative Commons Attribution-NonCommercial 4.0 International
-(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
-
-You are free to build, modify and share the BigBoy Advance design for
-non-commercial purposes, provided appropriate credit is given.
-
-Commercial use, including the sale of products manufactured from these design
-files, is not permitted without prior permission.
-
-If you are interested in commercial use of the BigBoy Advance design, please
-contact me for permission.
+I have already built the first prototype of this version and with a few modifications, it should be available in the near future.
 
 ## Disclaimer
 
@@ -120,3 +105,9 @@ respective owners.
 
 Modifying a Nintendo DS Lite requires soldering and permanent modification of
 the original hardware. Perform the modification at your own risk.
+
+## License
+
+The BigBoy Advance design files and documentation in this repository are
+licensed under the Creative Commons Attribution-NonCommercial 4.0 International
+([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)) license.
